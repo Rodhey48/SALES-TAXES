@@ -1,0 +1,26 @@
+[
+    {
+        "name": "food",
+        "tax": false
+    },
+    {
+        "name": "books",
+        "tax": false
+    },
+    {
+        "name": "medical",
+        "tax": false
+    },
+    {
+        "name": "music",
+        "tax": true
+    },
+    {
+        "name": "cosmetic",
+        "tax": true
+    },
+    {
+        "name": "other",
+        "tax": true
+    }
+]
