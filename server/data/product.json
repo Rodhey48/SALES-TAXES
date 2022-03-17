@@ -1,0 +1,65 @@
+[
+    {
+        "name": "book",
+        "price": 12.49,
+        "stock": 100,
+        "import": false,
+        "categoryId": 2
+    },
+    {
+        "name": "music CD",
+        "price": 14.99,
+        "stock": 100,
+        "import": false,
+        "categoryId": 4
+    },
+    {
+        "name": "chocolate bar",
+        "price": "0.85",
+        "stock": 100,
+        "import": false,
+        "categoryId": 1
+    },
+    {
+        "name": "chocolates 123 import",
+        "price": 10,
+        "stock": 100,
+        "import": true,
+        "categoryId": 1
+    },
+    {
+        "name": "perfume ABC import",
+        "price": 47.50,
+        "stock": 100,
+        "import": true,
+        "categoryId": 5
+    },
+    {
+        "name": "perfume 123 import",
+        "price": 27.99,
+        "stock": 100,
+        "import": true,
+        "categoryId": 5
+    },
+    {
+        "name": "perfume 456",
+        "price": 18.99,
+        "stock": 100,
+        "import": false,
+        "categoryId": 5
+    },
+    {
+        "name": "headache pills",
+        "price": 9.75,
+        "stock": 100,
+        "import": false,
+        "categoryId": 3
+    },
+    {
+        "name": "chocolates abc import",
+        "price": 11.25,
+        "stock": 100,
+        "import": true,
+        "categoryId": 1
+    }
+]
